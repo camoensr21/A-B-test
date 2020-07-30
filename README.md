@@ -15,3 +15,5 @@ In this first section We are looking for the following information:
 
 In this project we will use some key statistics concepts such as: Binomial, Bayes rules diagram, Maximum probability,confidence intervall, Central Limit 
 Theorem,Practical Statistics vs Significance, Hypothesis testing,Ordinary Least Square regression , logistic regression.
+
+AI class required me to add some collaborator
